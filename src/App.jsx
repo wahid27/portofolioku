@@ -258,8 +258,8 @@ export default function App() {
     };
   }, []);
 
-  const whatsappNumber = "6281234567890"; 
-  const emailAddress = "wahid.amiruddin@gmail.com"; 
+  const whatsappNumber = "6282228398585"; 
+  const emailAddress = "w.amiruddin@gmail.com"; 
   const waLink = `https://wa.me/${whatsappNumber}?text=Halo%20Wahid,%20saya%20punya%20masalah%20yang%20perlu%20Anda%20bedah%20dan%20selesaikan%20lewat%20kode.`;
   const mailLink = `mailto:${emailAddress}?subject=Tawaran%20Kolaborasi%20Nexus`;
 
