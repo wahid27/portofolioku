@@ -109,7 +109,7 @@ const PROJECTS = [
   },
    {
     id: 7,
-    title: "Dashboard ADiwiyat",
+    title: "Dashboard ADiwiyata",
     type: "Corporate Portal",
     shortDesc: "Teknologi automasi untuk track progress anda.",
     problem: "Sulitnya memantau proses upload banyak dokumen di banyak folder di drive",
