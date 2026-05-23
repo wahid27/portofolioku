@@ -106,6 +106,17 @@ const PROJECTS = [
     tech: ["Security", "SEO"],
     url: "https://www.chaerunisa.co.id/",
     color: "#aa00ff"
+  },
+   {
+    id: 7,
+    title: "Dashboard ADiwiyat",
+    type: "Corporate Portal",
+    shortDesc: "Teknologi automasi untuk track progress anda.",
+    problem: "Sulitnya memantau proses upload banyak dokumen di banyak folder di drive",
+    impact: "Menjadikan semua otomatis tinggal cek dashboard klik dan terupload.",
+    tech: ["Security",  "Automasi", "SEO"],
+    url: "https://script.google.com/macros/s/AKfycbwg8a-3tVLNY9_X8cGrt9jdLKbHerW4_j7NRSc5S20rcbpI8N52L_douOFt9qSgceCE/exec",
+    color: "#aa00ff"
   }
 ];
 
